@@ -1,0 +1,12 @@
+.banner {
+  display: block;
+  max-width: 100%; /* Уменьшение до 25% от оригинальной ширины */
+  height: auto; /* Автоматическое сохранение пропорций */
+  margin: 20px auto; /* Центрирование изображения */
+
+}
+.title{
+  text-align: center;
+  font-family: "Droid Sans", sans-serif;
+  background-color: rgba(246, 246, 246, 0.6);
+}
